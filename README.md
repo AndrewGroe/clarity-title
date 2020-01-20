@@ -1,6 +1,6 @@
 # Clarity Title
 
-This repository is home to Clarity Title's upcoming website. This site aims to be both responsive and intuitive. It features 
+This repository is home to Clarity Title's upcoming website. This site aims to be both responsive and intuitive. It features a stylish landing page as well as a custom built rate calculator.
 
 #### Features include:
 * Vue.js
