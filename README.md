@@ -1,24 +1,13 @@
-# clarity-title
+# Clarity Title
 
-## Project setup
-```
-npm install
-```
+This repository is home to Clarity Title's upcoming website. This site aims to be both responsive and intuitive. It features 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Features include:
+* Vue.js
+* Vue Router
+* Tailwind CSS
+* Custom SVG icons and animations
+* Responsive Design w/o any component libraries
+* CSS Flexbox
+* [v-money](https://github.com/vuejs-tips/v-money "v-money") library
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
