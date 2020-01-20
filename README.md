@@ -11,3 +11,4 @@ This repository is home to Clarity Title's upcoming website. This site aims to b
 * CSS Flexbox
 * [v-money](https://github.com/vuejs-tips/v-money "v-money") library
 
+![Screenshot](docs/images/screenshot.png)
