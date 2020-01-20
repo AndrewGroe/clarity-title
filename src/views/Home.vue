@@ -48,13 +48,15 @@ export default {
 }
 
 #picture {
+  content: "";
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  content: url("https://images.pexels.com/photos/712786/pexels-photo-712786.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: url("https://images.pexels.com/photos/712786/pexels-photo-712786.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-size: cover;
+  background-repeat: no-repeat;
   position: absolute;
-  object-fit: cover;
 }
 
 #overlay {

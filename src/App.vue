@@ -6,7 +6,7 @@
 
     <NavBar
       v-if="homePageCheck"
-      :backgroundColor="transparent"
+      backgroundColor="transparent"
       class="absolute w-full"
     />
     <NavBar v-else />
