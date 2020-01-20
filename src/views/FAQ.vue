@@ -1,5 +1,6 @@
 <template>
-  <div class="about">
+  <div class="faq">
+
     <h1 class="text-2xl mx-4">FAQ</h1>
     <FAQItem
       v-for="item in FAQs"
@@ -9,9 +10,11 @@
   </div>
 </template>
 <script>
+
 import FAQItem from '@/components/FAQItem'
 export default {
   components: {
+
     FAQItem
   },
   data () {

@@ -2,6 +2,9 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        Blue: {
+          light: '#9DB0AC'
+        },
         Green: {
           primary: '#015b3a',
           light: '#6e897f',
@@ -14,6 +17,10 @@ module.exports = {
       }
     }
   },
-  variants: {},
+  variants: {
+    backgroundColor: ['responsive', 'hover', 'focus'],
+    border: ['responsive', 'hover', 'focus'],
+    borderWidth: ['responsive', 'hover', 'focus']
+  },
   plugins: []
 }

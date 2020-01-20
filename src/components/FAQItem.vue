@@ -18,7 +18,7 @@
         class="bg-Mint rounded-b text-center shadow-lg"
         :class="isOpen ? 'block opening' : 'hidden closing'"
       >
-        <p class="py-6 text-lg font-semibold">{{item.text}}</p>
+        <p class="py-6 text-lg font-semibold px-2">{{item.text}}</p>
 
         <div class="flex justify-center">
 
@@ -53,11 +53,5 @@ export default {
 }
 .arrow.open {
   transform: rotate(-225deg);
-}
-
-.opening {
-  transition: top 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94) 0s;
-}
-.closing {
 }
 </style>
