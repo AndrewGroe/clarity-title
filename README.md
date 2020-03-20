@@ -2,6 +2,8 @@
 
 This repository is home to Clarity Title's upcoming website. This site aims to be both responsive and intuitive. It features a stylish landing page as well as a custom built rate calculator.
 
+A demo can be found at https://claritytitle.netlify.com/
+
 #### Features include:
 * Vue.js
 * Vue Router
