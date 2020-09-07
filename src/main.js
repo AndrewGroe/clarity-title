@@ -13,7 +13,7 @@ Vue.use(money, {
   prefix: '$ ',
   suffix: '',
   // Level of decimal precision. REQUIRED
-  precision: 2,
+  precision: 0,
   // If mask is false, outputs the number to the model. Otherwise outputs the masked string.
   masked: false
 })
