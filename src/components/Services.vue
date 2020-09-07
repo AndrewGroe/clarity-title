@@ -41,7 +41,7 @@ export default {
       services: [
         {
           title: 'In-House',
-          text: 'Onsite closings at our Winter Springs office offer a convenient meeting place for all involved parties.',
+          text: 'Onsite closings at our office offer a convenient meeting place for all involved parties.',
           icon: 'icon-building'
         },
         {
