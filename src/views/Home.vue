@@ -5,8 +5,8 @@
       <img id="picture" />
       <div id="overlay">
 
-        <div class="mt-48 lg:mr-24 lg:float-right">
-          <h2 class="text-5xl text-white text-center font-semibold font-hero"><span class="text-Mint tracking-wider">Peace of Mind</span> <br>for your<br>Piece of Home</h2>
+        <div class="mt-48">
+          <h2 class="text-5xl text-white text-center font-semibold font-hero"><span class="text-Mint tracking-wider">Your Clear Path</span> <br>to<br>Closing</h2>
         </div>
         <div class="scroll-btn">
           <a href="#services">
@@ -53,7 +53,7 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("https://images.pexels.com/photos/712786/pexels-photo-712786.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260");
+  background-image: url("https://images.pexels.com/photos/450055/pexels-photo-450055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
