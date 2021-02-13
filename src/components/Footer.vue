@@ -3,7 +3,7 @@
     <footer class="pb-4">
       <div class="p-2 leading-relaxed text-xl">
         <address class="contact-info pt-4 flex flex-col md:flex-row justify-center">
-        <ul class="md:pb-8 pb:4">
+        <ul class="md:pb-8 pb:4 md:px-2">
       <li class="font-bold">Phone: <a class="underline" href="tel:4075672409">407-567-2409</a></li>
       <li>Fax: 407-550-7400</li>
       <li>Email: <a class="underline" href="mailto:info@claritytitlefl.com">info@claritytitlefl.com</a></li>
