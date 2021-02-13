@@ -9,7 +9,7 @@
       <li>Email: <a class="underline" href="mailto:info@claritytitlefl.com">info@claritytitlefl.com</a></li>
       <li>3505 Lake Lynda Drive, Suite 200<br>Orlando, FL 32817</li>
     </ul>
-    <div class="pt-4 md:pt-0">
+    <div class="p-4 md:pt-0">
     <iframe width="360" height="360" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=3505%20Lake%20Lynda%20Drive%2C%20Suite%20200%20Orlando%2C%20FL%2032817&key=AIzaSyAO57KzwYSKXtIcJ-rjjyY9tuuomGY2UrU" allowfullscreen></iframe>
     </div>
     </address>
@@ -26,7 +26,4 @@ export default {
 </script>
 
 <style>
-.contact-info{
-
-}
 </style>
