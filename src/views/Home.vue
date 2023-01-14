@@ -6,7 +6,7 @@
       <div id="overlay">
 
         <div class="mt-48">
-          <h2 class="text-5xl text-white text-center font-semibold font-hero"><span class="text-Mint tracking-wider">Your Clear Path</span> <br>to<br>Closing</h2>
+          <h2 class="text-5xl text-white text-center font-semibold font-hero"><span class="text-white italic tracking-wider">Your Clear Path</span> <br>to<br>Closing</h2>
         </div>
         <div class="scroll-btn">
           <a href="#services">
@@ -53,7 +53,7 @@ export default {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url("https://images.pexels.com/photos/450055/pexels-photo-450055.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-image: url("https://images.pexels.com/photos/461755/pexels-photo-461755.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
   background-size: cover;
   background-repeat: no-repeat;
   position: absolute;
@@ -66,7 +66,7 @@ export default {
   clear: float;
   width: 100%;
   height: 100%;
-  background: rgba(0, 134, 60, 0.65);
+  background: rgba(0, 134, 60, 0.30);
 }
 
 .hero {
